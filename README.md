@@ -10,11 +10,7 @@ This project is created to analyze New York bike sharing program Citi Bike in or
 
 ## Results
 
-```none
-[NYC Citi Bike Analysis](https://public.tableau.com/views/NYC_CitiBike_Challenge_16443877634060/CitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-```
-
-
+[NYC Citi Bike Analysis](https://public.tableau.com/views/NYC_CitiBike_Challenge_16443877634060/CitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_lin)
 
 The tripduration column's data type is changed from integer to datetime to get the time in hours and minutes using Pandas.
 
